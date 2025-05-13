@@ -4,3 +4,5 @@ labels:
   - feature
 review: 
   severity_threshold: medium
+  severity_threshold: easy
+  severity_threshold: hard
