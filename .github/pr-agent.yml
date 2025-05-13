@@ -1,0 +1,6 @@
+labels:
+  - bug
+  - performance
+  - feature
+review: 
+  severity_threshold: medium
